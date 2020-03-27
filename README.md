@@ -5,7 +5,6 @@
 Avorion for Docker
 ==================
 
-
 ### Game Info
 
 For some information about the game see https://www.kickstarter.com/projects/koonschi/avorion
