@@ -35,5 +35,3 @@ You can specify an admin via the environment, adding `-e USER=<steamid>` to set 
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md)
-
-
